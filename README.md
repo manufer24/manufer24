@@ -11,10 +11,10 @@ In my role, I am skilled in integrating REST APIs to seamlessly connect differen
 ### :computer: Languages and Tools
 
 #### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,css,html)](https://skillicons.dev)
 
 #### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vuejs,nuxtjs,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vuejs,nuxtjs,astro,flutter)](https://skillicons.dev)
 
 #### Development Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
