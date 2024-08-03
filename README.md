@@ -23,6 +23,7 @@ I'm a Venezuelan Front-End Web Developer. What sets me apart from others in my f
 
 #### Development Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 #### Version Control and Collaboration:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
