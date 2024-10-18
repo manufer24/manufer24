@@ -19,7 +19,7 @@ I'm a Venezuelan Front-End Web Developer. What sets me apart from others in my f
 
 
 #### Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vuejs,nuxtjs,astro,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vuejs,nuxtjs,astro)](https://skillicons.dev)
 
 #### Development Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
