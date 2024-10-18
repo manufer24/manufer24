@@ -2,8 +2,11 @@
 
 ### **`Front-End Web Developer`**
 
-I'm a Venezuelan Front-End Web Developer. 
-As Front-End Web Developer. I work for Hurtado Global Media Group. Media Group. I also collaborate in projects as a Freelance Web Developer. What sets me apart from others in my field are my strong communication and quick learning skills, which allow me to collaborate effectively with colleagues. 
+I'm a Venezuelan Front-End Web Developer. What sets me apart from others in my field are my strong communication and quick learning skills, which allow me to collaborate effectively with colleagues. 
+
+### As Front-End Web Developer: 
+- I work for Hurtado Global Media Group.
+- I also collaborate in projects as a Freelance Web Developer. 
 
 ### In my role, I am skilled in: 
 - Responsive Web Design.
