@@ -7,8 +7,10 @@ I'm a Venezuelan Front-End Web Developer. What sets me apart from others in my f
 ### In my role, I am skilled in: 
 - Responsive Web Design.
 - Integrating REST APIs to seamlessly connect different systems.
+- Modify and support REST API integrations.
 - TypeScript for robustness and safety in the development process.
 - I am proficient in migrating websites to keep them up-to-date with the latest technologies and best practices.
+- CSS optimization for production. 
 
 ---
 
