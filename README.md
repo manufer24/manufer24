@@ -2,19 +2,22 @@
 
 ### **`Front-End Web Developer`**
 
-I'm a Venezuelan Front-End Web Developer. What sets me apart from others in my field are my strong communication and quick learning skills, which allow me to collaborate effectively with colleagues. 
+I'm a Venezuelan Front-End Web Developer. With a strong background in front-end development and a focus on
+          collaboration, I am well-equipped to work effectively with colleagues
+          and deliver high-quality results.
 
 ### As Front-End Web Developer: 
-- I work for Hurtado Global Media Group.
+- I am part of the team at Hurtado Global Media Group.
 - I also collaborate in projects as a Freelance Web Developer. 
 
-### In my role, I am skilled in: 
-- Responsive Web Design.
-- Integrating REST APIs to seamlessly connect different systems.
-- Modify and support REST API integrations.
-- TypeScript for robustness and safety in the development process.
-- I am proficient in migrating websites to keep them up-to-date with the latest technologies and best practices.
-- CSS optimization for production. 
+### Technical Expertise: 
+- API integration: I have experience integrating REST APIs to fetch data and enable seamless interactions between front-end and back-end systems.
+- API Support and Modification: I am well-versed in modifying and supporting existing REST API integrations to ensure optimal performance and functionality.
+- Programming Languages: I am proficient in JavaScript and TypeScript, with a strong understanding of their syntax, features, and best practices.
+- Front-end Frameworks: I have hands-on experience with popular front-end frameworks, including Vue.js, Nuxt.js, and Astro.
+- Website Migration: I am proficient in migrating websites to keep them up-to-date with the latest technologies and best practices, ensuring minimal downtime and preserving existing functionality.
+- CSS frameworks: I am skilled in using Tailwind CSS to create responsive, customizable, and maintainable user interfaces.
+- CSS optimization: I know how to use Tailwind CSS's built-in features, such as PurgeCSS and CSS minification, to optimize CSS for production and reduce page load times.
 
 ---
 
