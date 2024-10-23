@@ -17,7 +17,7 @@ I'm a Venezuelan Front-End Web Developer. With a strong background in front-end 
 - Front-end Frameworks: I have hands-on experience with popular front-end frameworks, including Vue.js, Nuxt.js, and Astro.
 - Website Migration: I am proficient in migrating websites to keep them up-to-date with the latest technologies and best practices, ensuring minimal downtime and preserving existing functionality.
 - CSS frameworks: I am skilled in using Tailwind CSS to create responsive, customizable, and maintainable user interfaces.
-- CSS optimization: I know how to use Tailwind CSS's built-in features, such as PurgeCSS and CSS minification, to optimize CSS for production and reduce page load times.
+- CSS optimization: I know how to use Tailwind CSS's built-in features to optimize CSS for production and reduce page load times.
 
 ---
 
